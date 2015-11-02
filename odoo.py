@@ -2,7 +2,6 @@
 #----------------------------------------------------------
 # odoo cli
 #
-# To install your odoo development environement type:
 #
 # wget -O- https://raw.githubusercontent.com/odoo/odoo/8.0/odoo.py | python
 #
